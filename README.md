@@ -9,5 +9,3 @@ HTML
 CSS
 
 Vanilla Javascript
-
-# access link
