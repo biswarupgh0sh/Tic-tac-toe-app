@@ -9,3 +9,6 @@ HTML
 CSS
 
 Vanilla Javascript
+
+![image](https://github.com/biswarupgh0sh/tic-tac-toe-app/assets/73950565/3abd7e8e-4903-45e2-948a-7582888b7cd3)
+
